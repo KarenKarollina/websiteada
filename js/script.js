@@ -11,4 +11,6 @@ else{
 }
 }
 
+var nome = prompt("Hey tudo bem!? Esse eh o LinkeLind da Karen Karollina. Qual o seu  nome?")
+alert("Oi "+ nome + " que lindo nome !! Seja bem vinde e sinta se em casa :)")
 
